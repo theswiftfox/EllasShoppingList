@@ -1,0 +1,5 @@
+<Bindings>
+  <Binding name="ELLS_ADD_HOVERED_ITEM" category="Ellas Shopping List">
+    EllasShoppingList_AddHoveredItem()
+  </Binding>
+</Bindings>

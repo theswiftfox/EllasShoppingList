@@ -1,0 +1,11 @@
+## Interface: 120000, 110205
+## Title: EllasShoppingList
+## Notes: Small shopping list addon
+## Author: theswiftfox
+## Version: 0.1
+## SavedVariables: EllasShoppingListDB
+libs\LibDBIcon-1.0\LibDataBroker-1.1\LibDataBroker-1.1.lua
+libs\LibDBIcon-1.0\LibDBIcon-1.0\lib.xml
+
+ItemSearch.lua
+EllasShoppingList.lua
